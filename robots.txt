@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-i92cmy.salamduit.cfd/sitemap.xml
